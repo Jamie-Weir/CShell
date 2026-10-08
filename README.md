@@ -25,6 +25,7 @@ Restores the original PATH when the shell exits
 Built-in Commands
 
 Command	Description
+
 cd <directory>	Change the current working directory
 
 help	Display available shell commands
