@@ -26,14 +26,25 @@ Built-in Commands
 
 Command	Description
 cd <directory>	Change the current working directory
+
 help	Display available shell commands
+
 getpath	Display the current PATH
+
 setpath <path>	Change the current PATH
+
 history	Display stored command history
+
 !!	Execute the most recent command
+
 !<number>	Execute a numbered history command
+
 !-<number>	Execute a command relative to the current history
+
 alias	Display all configured aliases
+
 alias <name> <command>	Create or replace an alias
+
 unalias <name>	Remove an alias
+
 exit	Exit the shell
